@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rohitkasare 
-- 👀 I’m interested in Data Analytics and asa fresher in this stream I'm actively seeking opportunities as Data Analyst
+- 👀 Have keen interest in Data Analytics and as a fresher in this stream I'm actively seeking opportunities as Data Analyst
 - 🌱 I’m currently learning Python in Deep for cleaning the data and very well versed with SQL and PowerBI visualization tool also practicing analysis on various Datasets
 - 💞️ Plase refer my profile to have a look on that Projects that I've worked on
 - 📫 Please reach me on 9987461442/rohitkasare1505@gmail.com/ https://www.linkedin.com/in/rohitkasare2000/ 
